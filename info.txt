@@ -1,0 +1,15 @@
+========== RESISTORS ==========
+0Black
+1Brown
+2Red
+3Orange
+4Yellow
+5Green
+6Blue
+7Violet
+8Gray
+9White
+-Gold
+-Silver
+
+
